@@ -1,5 +1,6 @@
-Flask
+fastapi
+uvicorn
 pyrogram
 tgcrypto
-requests
 beautifulsoup4
+requests
